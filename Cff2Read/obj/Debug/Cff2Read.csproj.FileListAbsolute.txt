@@ -1,0 +1,8 @@
+E:\汇源印刷\Cff2Read\Cff2Read\bin\Debug\Cff2Read.exe
+E:\汇源印刷\Cff2Read\Cff2Read\bin\Debug\Cff2Read.pdb
+E:\汇源印刷\Cff2Read\Cff2Read\obj\Debug\Cff2Read.csprojResolveAssemblyReference.cache
+E:\汇源印刷\Cff2Read\Cff2Read\obj\Debug\Cff2Read.Properties.Resources.resources
+E:\汇源印刷\Cff2Read\Cff2Read\obj\Debug\Cff2Read.csproj.GenerateResource.Cache
+E:\汇源印刷\Cff2Read\Cff2Read\obj\Debug\Cff2Read.exe
+E:\汇源印刷\Cff2Read\Cff2Read\obj\Debug\Cff2Read.pdb
+E:\汇源印刷\Cff2Read\Cff2Read\obj\Debug\Cff2Read.MainFrm.resources
